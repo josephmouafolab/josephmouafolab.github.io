@@ -1,0 +1,87 @@
+.apachesolr_autocomplete {
+	
+}
+.message.apachesolr_autocomplete {
+	color: rgb(136, 136, 136); font-size: 80%;
+}
+.count.apachesolr_autocomplete {
+	float: right;
+}
+div.suggestion.apachesolr_autocomplete {
+	float: left; display: inline;
+}
+div.ac_results li {
+	list-style: none; background-image: none !important;
+}
+.ctools-locked {
+	padding: 1em; border: 1px solid red; border-image: none; color: red;
+}
+.ctools-owns-lock {
+	background: 0px 0px rgb(255, 255, 221); padding: 1em; border: 1px solid rgb(240, 192, 32); border-image: none;
+}
+a.ctools-ajaxing {
+	background: url("/sites/all/modules/contrib/ctools/images/status-active.gif") no-repeat right; padding-right: 18px !important;
+}
+input.ctools-ajaxing {
+	background: url("/sites/all/modules/contrib/ctools/images/status-active.gif") no-repeat right; padding-right: 18px !important;
+}
+button.ctools-ajaxing {
+	background: url("/sites/all/modules/contrib/ctools/images/status-active.gif") no-repeat right; padding-right: 18px !important;
+}
+select.ctools-ajaxing {
+	background: url("/sites/all/modules/contrib/ctools/images/status-active.gif") no-repeat right; padding-right: 18px !important;
+}
+div.ctools-ajaxing {
+	background: url("/sites/all/modules/contrib/ctools/images/status-active.gif") no-repeat center; width: 18px; float: left;
+}
+div.panel-pane div.admin-links {
+	font-size: xx-small; margin-right: 1em;
+}
+div.panel-pane div.admin-links li a {
+	color: rgb(204, 204, 204);
+}
+div.panel-pane div.admin-links li {
+	background: white; padding-bottom: 2px; z-index: 201;
+}
+div.panel-pane div.admin-links:hover a {
+	color: rgb(0, 0, 0);
+}
+div.panel-pane div.admin-links-hover a {
+	color: rgb(0, 0, 0);
+}
+div.panel-pane div.admin-links a::before {
+	content: "[";
+}
+div.panel-pane div.admin-links a::after {
+	content: "]";
+}
+div.panel-pane div.panel-hide {
+	display: none;
+}
+div.panel-pane div.panel-hide-hover {
+	margin-top: -1.5em; display: block; position: absolute; z-index: 200;
+}
+div.panel-pane:hover div.panel-hide {
+	margin-top: -1.5em; display: block; position: absolute; z-index: 200;
+}
+div.panel-pane div.feed a {
+	float: right;
+}
+.panel-1col {
+	
+}
+.panel-2col .panel-col-first .inside {
+	margin: 0px;
+}
+.panel-1col .panel-col {
+	width: 100%;
+}
+#panels-edit-display .panel-pane {
+	margin: 0.5em;
+}
+#panels-edit-display .helperclass {
+	margin: 0.5em;
+}
+.panel-2col .panel-separator {
+	margin: 0px 0px 1em;
+}

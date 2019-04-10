@@ -1,0 +1,96 @@
+@media print
+{
+#admin-menu-wrapper {
+	display: none;
+}
+#themer-toggle {
+	display: none;
+}
+#skip-link {
+	display: none;
+}
+.element-invisible {
+	display: none;
+}
+.tabs--primary {
+	display: none;
+}
+.alert-block {
+	display: none;
+}
+#navwrap_menu_header {
+	display: none !important;
+}
+.menu-utilitaire {
+	display: none;
+}
+.menu-titre {
+	display: none;
+}
+.breadcrumb {
+	display: none;
+}
+.social-share {
+	display: none;
+}
+.ctn-gen-code-copier {
+	display: none;
+}
+.ctn-gen-load-more-wrapper {
+	display: none;
+}
+.outils {
+	display: none;
+}
+.ctn-gen-titre h1 {
+	font-size: 26px !important;
+}
+.ctn-gen-introduction p {
+	font-size: 13px !important;
+}
+.ctn-gen-body p {
+	font-size: 11px !important;
+}
+li {
+	font-size: 11px !important;
+}
+.ctn-gen-ascenseur-titre {
+	font-size: 22px !important;
+}
+.main-wrapper ul li h1 {
+	margin-top: -26px;
+}
+.main-wrapper ul li h2 {
+	margin-top: -26px;
+}
+.main-wrapper ul li h3 {
+	margin-top: -24px;
+}
+.main-wrapper ul li h4 {
+	margin-top: -19px;
+}
+.main-wrapper ul li h5 {
+	margin-top: -16px;
+}
+.main-wrapper ul li h6 {
+	margin-top: -15px;
+}
+.view-mode {
+	display: none;
+}
+.views-exposed-form {
+	display: none;
+}
+.interest {
+	display: none;
+}
+.cles.mots {
+	display: none;
+}
+img {
+	display: none;
+}
+footer {
+	display: none !important;
+}
+}
